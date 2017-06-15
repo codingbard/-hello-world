@@ -1,2 +1,4 @@
 # -hello-world
-Just another repository 
+Sup, Nerds
+
+Bard, here to fuck shit up.
